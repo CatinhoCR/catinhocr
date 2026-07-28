@@ -29,7 +29,6 @@ Frontend architecture that holds up under real production weight — performance
 
 [LinkedIn](https://linkedin.com/in/catinhocr) · [castilloquesada.com](https://castilloquesada.com) · andres@castilloquesada.com
 
-WIP
 <!--
 **CatinhoCR/catinhocr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
