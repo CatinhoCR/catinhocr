@@ -15,11 +15,11 @@ Building interactive, motion-driven interfaces and the design systems that scale
 ### Selected work
 
 - **[castilloquesada.com](https://castilloquesada.com)** — my portfolio, built in the open. Next.js + GSAP + Lenis, token-driven design system, hand-built end to end.
-- **Vans — 3D Shoe Customizer** — real-time product customization for a global brand (Vue + Three.js)
-- **Walmart Connect — Design System** — SCSS token/component library powering a multi-team ad platform
+- **Global Footwear Brand — 3D Shoe Customizer** — real-time product customization for a global brand (Vue + Three.js)
+- **Multi-Team Retail Ad Platform — Design System** — SCSS token/component library powering a multi-team ad platform
 - **Uniwatch** — AI-powered IP vigilance SaaS, built and led as sole technical lead (NestJS, PostgreSQL, Python/TensorFlow, AWS)
 
-*(Vans and Walmart Connect were delivered via Publicis Global Delivery; details shared here stay at the narrative level per client NDA.)*
+*(The footwear and retail-media platform projects were delivered via Publicis Global Delivery; details shared here stay at the narrative level per client NDA.)*
 
 ### How I work
 
